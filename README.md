@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with REACT + REDUX
 
 This project is to my ownn learning to React + Redux, I'm studying using this course: [https://www.udemy.com/course/react-redux-pt/](https://www.udemy.com/course/react-redux-pt/)
 
