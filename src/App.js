@@ -1,9 +1,10 @@
 import './App.css';
+import First from './components/basics/First'
 
 function App() {
   return (
     <div className="App">
-        <p>Start react studies</p>
+        <First />
     </div>
   );
 }
