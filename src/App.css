@@ -14,3 +14,9 @@
   color: #61dafb;
 }
 
+.ComponentContainer {
+    border-style: dotted;
+    border-color: antiquewhite 2px;
+    padding: 20px;
+    border-radius: 8px;
+}

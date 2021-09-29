@@ -4,7 +4,9 @@ import First from './components/basics/First'
 function App() {
   return (
     <div className="App">
-        <First />
+        <div className="ComponentContainer">
+            <First></First>
+        </div>
     </div>
   );
 }
